@@ -2,6 +2,7 @@ package com.example.ggcdegrees;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.Menu;
@@ -10,12 +11,13 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
-public class Business extends Activity 
+public class Business extends Activity
 {
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) 
 	{
+			  
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_business);
 		
@@ -25,7 +27,13 @@ public class Business extends Activity
 
 			@Override
 			public void onClick(View v) 
-			{
+			{	
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-acct.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading Accounting Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
@@ -41,6 +49,12 @@ public class Business extends Activity
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14_business-economics-program.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading Economics Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
@@ -56,6 +70,12 @@ public class Business extends Activity
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-finance.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading Finance Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
@@ -71,6 +91,12 @@ public class Business extends Activity
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-international.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading General Business Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
@@ -86,6 +112,12 @@ public class Business extends Activity
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-international.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading International Business Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
@@ -101,6 +133,12 @@ public class Business extends Activity
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-leadership.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading Leadership Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
@@ -116,6 +154,12 @@ public class Business extends Activity
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-mis.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading Management Information Systems Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
@@ -131,6 +175,12 @@ public class Business extends Activity
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-marketing.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading Marketing Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
@@ -148,12 +198,12 @@ public class Business extends Activity
 			{
 				Intent intent = new Intent(Business.this, Schools.class);
 				Business.this.startActivity(intent);
+				finish();
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Taking you back...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
-				
 			}
 			
 		});
@@ -165,6 +215,12 @@ public class Business extends Activity
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.business, menu);
 		return true;
+	}
+	
+	@Override
+	public void onBackPressed()
+	{
+		moveTaskToBack(true);
 	}
 
 }

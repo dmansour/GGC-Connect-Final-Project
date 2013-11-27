@@ -116,6 +116,7 @@ public class Schools extends Activity {
 			{
 				Intent intent = new Intent(Schools.this, MainActivity.class);
 				Schools.this.startActivity(intent);
+				finish();
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Taking you back...", Toast.LENGTH_LONG);
