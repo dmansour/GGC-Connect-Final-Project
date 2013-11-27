@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8" />
+<title>Degrees &amp; Programs | Georgia Gwinnett College</title>
+<meta name="author" content="Administrative User" />
+<meta name="generator" content="SiteExecutive v2012" />
+<meta name="date" content="2013-09-30T14:41:26-05:00" />
+<meta name="title" content="Degrees &amp; Programs | Georgia Gwinnett College" /> 
+	<link id="csspage" rel="stylesheet" type="text/css" media="all" href="/se/styles/out/EFE2B75285E324CE3CCF94DE6C5D454B.css"/>
+	
+	<link id="csstemplate" rel="stylesheet" type="text/css" media="all" href="/se/styles/out/2519C3CF76EB390FDB16EEC6B31EE979.css"/>
+	
+		<link rel="stylesheet" type="text/css" href="/sebin/t/s/mediaQueries.css" /> 
+<script type="text/javascript" src="/se/util/setracker.cfm"></script> 
+
+	
+	<!-- template head text -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+<script src="/sebin/n/b/interior.js"></script>
+
+<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1; minimum-scale=1"/>
+<meta name="google-translate-customization" content="4a7e5e8094081301-aad477749929c9ec-g4e64111192517a3f-b"></meta>
+
+<script>var activeNavNode = "academics";</script>
+	<!-- page head text -->
+	
+	<!-- end page head text -->
+</head>
+
+<body>
+	<div style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;"><a href="#Skip" title="Skip Navigation, Go To Main Body Content">Skip Navigation</a></div><div id="background"><img	src="/sebin/z/x/background_default.jpg"
+									alt="Georgia Gwinnett College" title="Georgia Gwinnett College" width="1700" height="1100" 
+				/></div><div id="container"><!-- skip navigation removed from included pages --><div id="header"><div id="toolbar_bg">&nbsp;</div><div class="inner"><ul class="toolbar"><li><a href="https://www.ggcfoundation.org/giving" ><span class="give-button">Give Now</span></a></li><li><a title="GGC Students" href="http://www.ggc.edu/ggc-students/index.html" >Students</a></li><li><a href="http://www.ggc.edu/parents/index.html" >Parents</a></li><li><a title="GGC Alumni" href="http://www.ggc.edu/alumni/" >Alumni</a></li><li><a href="http://www.ggc.edu/ggc-community/index.html" >Community</a></li><li><a title="GGC Faculty and Staff" href="http://www.ggc.edu/faculty-and-staff/index.html" >Faculty/Staff</a></li></ul><div id="main_logo"><a href="http://www.ggc.edu/" ><img src="/sebin/t/b/logo.png" alt="Georgia Gwinnett College" height="103" hspace="0" vspace="0" width="201" /></a></div><div class="print_logo"><img src="/sebin/b/b/GGC_logo_print.png" alt="Georgia Gwinnett College" height="104" hspace="0" vspace="0" width="202" /></div><!-- skip navigation removed from included pages --><div id="conn_icons_search">
+
+
+<div id="conn_icons">
+<ul class="top_social_icons">
+ <li>
+        <a data-linktype="EXTERNAL" data-newwindow="true" data-showtoolbar="true" externallink="https://twitter.com/GeorgiaGwinnett" href="https://twitter.com/GeorgiaGwinnett" title="Link to Twitter"><img alt="Twitter" data-seid="0DC858B788605883C7753C0B12B2ED25" rolloverenabled="No" src="/sebin/f/p/icon_twitter.png" /></a></li>
+    <li>
+        <a data-linktype="EXTERNAL" data-newwindow="true" data-showtoolbar="true" externallink="https://www.facebook.com/georgiagwinnett" href="https://www.facebook.com/georgiagwinnett" title="Link to Facebook"><img alt="Facebook" data-seid="F12A5F8FC2E0338FEF34D4961D1D5BF2" rolloverenabled="No" src="/sebin/d/k/icon_facebook.png" /></a></li>
+   <li>
+        <a data-linktype="EXTERNAL" data-newwindow="true" data-showtoolbar="true" externallink="http://instagram.com/georgiagwinnett#" href="http://instagram.com/georgiagwinnett#" title="Link to Instagram"><img alt="Instagram" data-seid="F5EB09B9BEFDE6D1657C15B291E11A24" rolloverenabled="No" src="/sebin/d/k/instagram-gray.png" /></a></li>
+</ul>
+</div>
+
+<div id="search">
+        <form id="cse-search-box" action="/search_results.html">
+          <input type="hidden" value="007094942053663089978:cf2j0k5rxjs" name="cx">
+          <input type="hidden" value="FORID:10" name="cof">
+          <input type="hidden" value="UTF-8" name="ie">
+<label for="q">Enter Search Phrase</label>
+          <input type="text" id="q" class="searchBox" size="31" name="q" placeholder="Search">
+<label for="sa">Search</label>
+          <input type="image" class="searchButton" value="Search" id="sa" name="sa" src="http://www.ggc.edu/sebin/t/s/search_button.png" alt="Search" title="Search">
+          <input type="hidden" name="siteurl" value="http://www.ggc.edu/">
+        </form>
+      </div>
+
+</div><!--
+<div id="search">
+        <form id="cse-search-box" action="/search_results.html">
+          <input type="hidden" value="007094942053663089978:cf2j0k5rxjs" name="cx">
+          <input type="hidden" value="FORID:10" name="cof">
+          <input type="hidden" value="UTF-8" name="ie">
+<label for="q">Enter Search Phrase</label>
+          <input type="text" id="q" class="searchBox" size="31" name="q" placeholder="Search">
+<label for="sa">Search</label>
+          <input type="image" class="searchButton" value="Search" id="sa" name="sa" src="http://www.ggc.edu/sebin/t/s/search_button.png" alt="Search" title="Search">
+          <input type="hidden" name="siteurl" value="http://www.ggc.edu/">
+        </form>
+      </div>
+--></div></div><div id="site_cols"><div class="inner"><!-- skip navigation removed from included pages --><div id="nav" style="margin-left: 0px;"><div class="item first"><a href="http://www.ggc.edu/about-ggc/" >About GGC</a> <div class="item_sub one"><div class="links"><ul><li><a title="President's Welcome" href="http://www.ggc.edu/about-ggc/office-of-the-president/" >President</a></li><li><a title="GGC at a Glance" href="http://www.ggc.edu/about-ggc/at-a-glance/index.html" >GGC at a Glance</a></li><li><a title="News" href="http://www.ggc.edu/about-ggc/news/" >News</a></li><li><a title="Departments" href="http://www.ggc.edu/about-ggc/departments/index.html" >Departments</a></li><li><a href="http://www.ggc.edu/about-ggc/departments/public-safety/" >Campus Safety</a></li><li><a href="http://www.ggc.edu/about-ggc/sustainability-at-ggc/" >Sustainability at GGC</a></li><li><a href="http://www.ggc.edu/about-ggc/contact-us/index.html" >Contact Us</a></li></ul></div><div class="feature"><a href="http://www.ggc.edu/about-ggc/news/News/local-foundation-supports-new-ggc-allied-health-and-science-building " ><img src="/sebin/j/z/about-alliedhealthconstruction-01.jpg" alt="Photo of construction on the instructional lab facility " class="border" height="110" hspace="0" vspace="0" width="125" /></a> <p><a href="http://www.ggc.edu/about-ggc/news/News/local-foundation-supports-new-ggc-allied-health-and-science-building " >Local foundation supports new GGC Allied Health and Science building</a></p></div></div></div><div class="item"><a title="Admissions" href="http://www.ggc.edu/admissions/index.html" >Admissions</a> <div class="item_sub two"><div class="links"><ul><li><a href="http://www.ggc.edu/admissions/visit-ggc/" >Visit Campus</a></li><li><a title="Admissions Deadlines" href="http://www.ggc.edu/admissions/deadlines/index.html" >Deadlines</a></li><li><a title="Admission Requirements" href="http://www.ggc.edu/admissions/admissions-requirements/index.html" >Admission Requirements</a></li><li><a title="How to Apply" href="http://www.ggc.edu/admissions/how-to-apply/index.html" >How to Apply</a></li><li><a title="Tuition and Aid" href="http://www.ggc.edu/admissions/tuition-and-aid/" >Tuition and Financial Aid</a></li><li><a title="Testing" href="http://www.ggc.edu/admissions/testing/index.html" >Testing</a></li><li><a title="Check Application Status" href="http://www.ggc.edu/admissions/check-application-status/index.html" >Check Application Status</a></li><li><a title="New Students" href="http://www.ggc.edu/admissions/new-students/" >Accepted Students</a></li><li><a href="http://www.ggc.edu/admissions/meet-our-staff/" >Meet Our Staff</a></li></ul></div><div class="feature"><img src="/sebin/d/o/admissions-housing-01.jpg" alt="Photo of GGC residence halls" class="border" height="110" hspace="0" vspace="0" width="125" /> <p>Live on campus and be 5 minutes from class</p></div></div></div><div class="item"><a title="Academics" href="http://www.ggc.edu/academics/index.html" >Academics</a> <div class="item_sub three"><div class="links"><ul><li><a title="Academic Calendar" href="http://www.ggc.edu/academics/calendar/index.html" >Academic Calendar</a></li><li><a href="http://www.ggc.edu/academics/degrees-and-programs/" >Degrees &amp; Programs</a></li><li><a href="http://www.ggc.edu/academics/courses-and-registration/" >Courses&nbsp;&amp; Registration</a></li><li><a title="Schools" href="http://www.ggc.edu/academics/schools/index.html" >Schools</a></li><li><a href="http://www.ggc.edu/academics/course-catalog/index.html" >Catalog</a></li><li><a title="Academic Resources" href="http://www.ggc.edu/academics/academic-opportunities-and-support/index.html" >Academic Opportunities &amp; Support</a></li><li><a title="Library" href="http://www.ggc.edu/about-ggc/departments/library/" >Library</a></li></ul></div><div class="feature"><a target="_blank" href="http://www.ggc.edu/about-ggc/departments/office-of-internationalization/study-abroad/blogs/study-abroad-world/sa-world-blog" ><img src="/sebin/x/c/academics.jpg" alt="GGC Academics " class="border" height="110" hspace="0" vspace="0" width="125" /></a> <p><a href="http://www.ggc.edu/academics/study-abroad/" >GGC Students expand their horizons in our Study Abroad programs</a></p></div></div></div><div class="item"><a title="Student Life" href="http://www.ggc.edu/student-life/index.html" >Student Life</a> <div class="item_sub four"><div class="links"><ul><li><a title="Housing and Dining" href="http://www.ggc.edu/about-ggc/departments/residence-life/" >Housing and Residence Life</a></li><li><a title="Student Activities and Clubs" href="http://www.ggc.edu/student-life/get-involved-on-campus/index.html" >Get Involved on Campus</a></li><li><a title="Support Services" href="http://www.ggc.edu/student-life/student-services/index.html" >Student Services</a></li><li><a title="Recreation and Intramural Sports" href="http://www.ggc.edu/student-life/wellness-and-recreation/index.html" >Wellness and Recreation</a></li><li><a title="Events Calendar" href="http://www.ggc.edu/student-life/events-calendar/events-calendar" >Events Calendar</a></li><li><a title="Meet Our Students" href="http://www.ggc.edu/student-life/Students" >Meet Our Students</a></li></ul></div><div class="feature"><a href="http://www.ggc.edu/about-ggc/departments/wellness-center/" ><img src="/sebin/n/r/student-workout-01.jpg" alt="Photo of GGC student lifting weights during a class in the Wellness Center" class="border" height="110" hspace="0" vspace="0" width="125" /></a> <p><a href="http://www.ggc.edu/about-ggc/departments/wellness-center/" >Get fit in the cardio room, weight rooms, group fitness classes and much more in the Wellness and Recreation Center</a></p></div></div></div><div class="item last"><a target="_blank" title="Athletics" href="http://www.grizzlyathletics.com/" >Athletics</a></div><div class="item more"><a href="http://www.ggcfoundation.org/giving" >Give Now</a></div><div class="clear">&nbsp;</div></div><div class="toolbar_secondary_background"><div class="links"><ul class="toolbar_secondary"><li class="first"><a href="http://www.ggc.edu/ggc-students/" >Students</a></li><li><a href="http://www.ggc.edu/parents/" >Parents</a></li><li><a href="http://www.ggc.edu/alumni/" >Alumni</a></li><li><a href="http://www.ggc.edu/ggc-community/" >Community</a></li><li class="last"><a href="http://www.ggc.edu/faculty-and-staff/" >Faculty/Staff</a></li></ul><div class="clear">&nbsp;</div></div></div><div style="clear:both;width:0;height:0;"></div><div class="clear">&nbsp;</div><!-- skip navigation removed from included pages --><div id="banners"> 
+          <div class="banner_left"><img src="/sebin/t/q/left-image-students20.jpg" 
+						
+                alt="Academics-05"
+             
+            />
+	        </div>
+          <div class="banner_right">
+            <img src="/sebin/z/x/right-image-library03.jpg" 
+							
+                  alt="Academics-05"
+               
+              />
+            <div class="blurb"><seml><p>Stretch yourself with a research project.</p></seml></div>
+          </div> 
+        </div><div id="main"><div id="right"><div id="int_cols"><div id="breadcrumbs"><span class=""><a class="" href="http://www.ggc.edu/">Home</a>&nbsp;&gt;&nbsp;<a class="" href="http://www.ggc.edu/academics/">Academics</a>&nbsp;&gt;&nbsp;<a class="" href="http://www.ggc.edu/academics/schools/">Schools</a>&nbsp;&gt;&nbsp;<a class="" href="http://www.ggc.edu/academics/schools/school-of-business/">School of Business</a>&nbsp;&gt;&nbsp;<a class="" href="http://www.ggc.edu/academics/schools/school-of-business/degrees-and-programs/">Degrees &amp; Programs</a></span><!-- skip navigation removed from included pages --><div class="addthis_pill_style addthis_default_style"> 
+            <a class="addthis_counter addthis_pill_style"></a> 
+          </div>
+          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-501fd5675000e9db"></script>   
+          <style>
+                      .addthis_button_expanded { display:none !important }
+              .addthis_default_style { float:right; border:4px solid #f4f4f4; }.addthis_counter,
+                      .addthis_counter a { padding:0 !important }
+          </style></div><div class="col_wrap"><h1 class="hide"><span class="">Degrees &amp; Programs</span></h1><div class="one_twoCol"><div><a name="Skip"></a></div><h2><strong><a name="accounting"></a></strong>Accounting</h2><p>The B.B.A. with a concentration in Accounting prepares graduates for productive careers in accounting or related business fields. Students who are&nbsp;&nbsp;interested in business, financial reporting and auditing, taxes or management may consider this area. The broad yet balanced curriculum offers intensive study of accounting theory combined with analytical and technical skills. Fields of Accounting include cost, financial, managerial, forensic, fund and tax. View the <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-acct.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-acct.pdf" >program plan</a> (PDF).&nbsp;</p><h2>Economics</h2><p><a name="economics"></a>The BBA with a concentration in Economics will introduce students to skills necessary to “think like an economist.�? A cliché often used to describe the discipline, thinking like an economist refers to the field’s emphases on thinking on the margin, understanding human responses to incentives, recognizing the significance of market structures and failures, and interpreting societies’ allocation and distribution of limited resources – all using a set of analytical and empirical tools. A concentration in economics prepares you for a future career as an analyst in the private or public sector and creates a solid foundation for numerous graduate programs including an MBA or law school. View the <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14_business-economics-program.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14_business-economics-program.pdf" >program plan</a> (PDF).</p><h2><strong><a name="finance"></a></strong>Finance</h2><p><img src="/sebin/t/y/Furick-student.jpg" align="right" alt="professor and student" border="0" height="206" hspace="5" vspace="0" width="300" /></p><p>The Finance concentration of the B.B.A. degree gives students a strong foundation to prepare them for the fast paced, problem-solving world of finance. Students will study financial management, international finance, investment and stocks, which along with the core business courses, will expose students to in-depth theory and practical application.Professionals in the finance industry are key players in growing businesses by creating and maintaining value for the company. This is achieved by expertly managing cash flow, raising capital, investing profitably and overseeing or recommending acquisitions. Possible career choices are budget analyst, financial analyst, stockbroker, investment banker and personal financial planner. View the <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-finance.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-finance.pdf" >program plan</a> (PDF).&nbsp;</p><h2><strong><a name="general_business"></a></strong>General Business</h2><p>The B.B.A. with a concentration in General Business is a broad program designed to preparestudents for a wide variety of business careers, from entrepreneurial endeavors to established management positions. Graduates can find a career in almost every sector, such as large and small business&nbsp; entities, governmental agencies, health care organizations, software companies, energy companies, retail concerns and entertainment arenas. View the <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-general.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-general.pdf" >program plan</a> (PDF).</p><h2><strong><a name="international_business"></a></strong>International Business</h2><p>The B.B.A. with a concentration in International Business prepares graduates to effectively compete in a global economy and pursue the excitingopportunities of international assignments. In-depth study of international business principles ensures graduates are ready for a variety of business&nbsp;&nbsp; careers in today’s setting of multicultural business relationships. Quality classroom experiences combined with real life exposure and applicationallowstudents to have first-hand experiences before they even graduate.Public and private sector jobs abound and could include Foreign Serviceofficer, diplomat, import/export agent, foreign sales representative, international marketing analyst and international mergers and acquisitions specialist. View the <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-international.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-international.pdf" >program plan</a> (PDF).</p><h2><a name="leadership"></a>Leadership*</h2><p>The B.B.A. with a concentration in Leadership is a blend of theory and practice that prepares students for leadership roles in both the private and public sectors.&nbsp;The program provides students with the knowledge and skills needed by today's leaders in order to contribute to organizational, political and social life.&nbsp;The program is guided by the four key leadership tenets, character, competency, citizenship and civility, and is designed to develop the skills and knowledge needed for effective leadership at the individual, team and organizational levels.&nbsp;View the&nbsp;<a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-leadership.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-leadership.pdf" >program plan</a>&nbsp;(PDF).</p><h2><a name="mis"></a>Management Information Systems</h2><p>The B.B.A. with a concentration in Management Information Systems (MIS) is a great choice for students who want to combine business and technology&nbsp; to effectively manage the information processes of today’s businesses. The MIS concentration focuses on both the business andtechnical aspects of information systems development and also on how decision-support tools and intelligent systems technology can be applied to the effective management of information technology both domestically and globally. Topics include: the global IT environment, project and operations management, IT planning and management, data management, application systems design and development, social networking and cross-cultural issues. View the <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-mis.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-mis.pdf" >program plan</a> (PDF).</p><h2><a name="marketing"></a>Marketing</h2><p>The B.B.A. with a concentration in Marketing is a great choice for students who want to combine business acumen with creativity. Brand managers, public relation professionals, product managers, event coordinators and marketing directors are all career options with this degree. The rigorous curriculum includes a strong business base along with courses in consumer behavior, market research and international marketing. Students will have exposure to fundamentals such as customer service and expectations, pricing structure, branding, advertising and market analysis.&nbsp;View the <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-marketing.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-program-plan-business-marketing.pdf" >program&nbsp;plan</a> (PDF).</p><p>*The School of Business also offers a minors in <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-minor-business-administration.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-minor-business-administration.pdf" >Business Administration</a> and <a target="_blank" onclick="window.open('http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-minor-business-leadership.pdf', '_blank', 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes'); return false;"  href="http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/2013-14-minor-business-leadership.pdf" >Leadership</a>.</p></div><div class="clear">&nbsp;</div></div></div></div><div id="sidebar_interior"><div class='divnav1'>
+<ul>
+<li class="navitemFirst">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/index.html' title='School of Business'>School of Business</a>
+</li>
+<li class="navitem2 activenavpath">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/degrees-and-programs/' title='Degree & Programs'>Degree & Programs</a>
+
+<li class="navitem3">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/business internships/' title='Internships'>Internships</a>
+</li>
+<li class="navitem4">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/Service Learning/index.html' title='Service Learning'>Service Learning</a>
+</li>
+<li class="navitem5">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/student clubs/index.html' title='Student Clubs'>Student Clubs</a>
+</li>
+<li class="navitem6">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/academic-advising/index.html' title='Academic Advising'>Academic Advising</a>
+</li>
+<li class="navitem7">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/research-and-publications/faculty-research.html' title='Faculty Research'>Faculty Research</a>
+</li>
+<li class="navitem8">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/news-sob' title='News and Events'>News and Events</a>
+</li>
+<li class="navitem9">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/meet-our-faculty-and-staff/index.html' title='Meet Our Faculty and Staff'>Meet Our Faculty and Staff</a>
+</li>
+<li class="navitemLast">
+<a href='http://www.ggc.edu/academics/schools/school-of-business/board-of-visitors/index.html' title='Meet Our Board of Visitors'>Meet Our Board of Visitors</a>
+</li>
+</ul>
+</div><!-- skip navigation removed from included pages --><p><a class="callout_green" title="Degrees &amp; Programs" href="http://www.ggc.edu/academics/degrees-and-programs/index.html" >Degrees &amp; Programs</a></p><p><a class="callout_gray" title="Tuition and Financial Aid" href="http://www.ggc.edu/admissions/tuition-and-aid/index.html" >Tuition &amp; Financial Aid</a></p><p><a class="callout_blue" title="Visit Campus" href="http://www.ggc.edu/admissions/visit-ggc/" >Visit Campus</a></p><p><a class="callout_purple" title="Request Information" href="http://www.ggc.edu/about-ggc/request-information/index.html" >Request Info</a></p><p><a class="callout_gold" title="Apply Now" href="http://www.ggc.edu/admissions/how-to-apply/index.html" >Apply Now</a></p></div><div class="clear">&nbsp;</div></div></div><div class="clear">&nbsp;</div></div><!-- skip navigation removed from included pages --><div id="footer" style="undefined"><div class="inner" style="undefined"><div class="one" style="undefined"><strong>Georgia Gwinnett College</strong><br /> 1000 University Center Lane<br /> Lawrenceville, GA 30043<br /> 678-407-5000<br /> <a class="blueArrow_whiteCircle" title="Contact Us" href="http://www.ggc.edu/about-ggc/contact-us/index.html" >Contact Us</a></div><div class="two" style="undefined"><div id="footer_blocks" style="undefined"><!-- skip navigation removed from included pages --><div class="footer_block"><a href="http://www.ggc.edu/admissions/visit-ggc/maps-and-directions/" ><img src="/sebin/h/u/campus-map-th.jpg" alt="Maps &amp; Directions" height="90" hspace="0" vspace="0" width="115" /></a><a class="footer_block_title" title="Maps &amp; Directions" href="http://www.ggc.edu/admissions/visit-ggc/maps-and-directions/index.html" >Maps &amp; Directions</a></div><!-- skip navigation removed from included pages --><div class="footer_block"><a target="_blank" title="Give to GGC" href="https://www.ggcfoundation.org/giving" ><img src="/sebin/r/n/footer-give-graphic.jpg" alt="Make a Difference - Give to GGC" height="90" hspace="0" vspace="0" width="115" /></a><a class="footer_block_title" target="_blank" title="Give to GGC" href="https://www.ggcfoundation.org/giving" >Give to GGC</a></div><!-- skip navigation removed from included pages --><div class="footer_block">
+					<a href="http://www.ggc.edu/about-ggc/at-a-glance/recognition/" title="Military Friendly School" target="_self">
+						<img src="/sebin/r/n/MFS14-logo-thumb.png" 
+							
+	              				alt="Military Friendly School"
+	              			 
+	            		/>
+					</a>
+					<a class="footer_block_title" href="http://www.ggc.edu/about-ggc/at-a-glance/recognition/" title="Military Friendly School" target="_self">
+						Recognition
+					</a>
+				</div><div class="clear" style="undefined">&nbsp;</div><div class="usg-footer-statement" style="undefined">A bachelor degree-granting unit of the University System of Georgia.</div></div><div id="footer_logo"><a title="Georgia Gwinnett College" href="http://www.ggc.edu/index.html" ><img src="/sebin/r/v/white_logo_horizontal.png" alt="Georgia Gwinnett College" height="44" style="undefined" width="206" /></a> <div class="ggc-connect"><a href="http://www.ggc.edu/about-ggc/ggc-social-media-directory/index.html" >Connect with GGC!</a></div></div><div class="print_logo" style="undefined"><img src="/sebin/f/h/GGC_logo_footer_print.png" alt="Georgia Gwinnett College" height="46" style="undefined" width="207" /></div></div></div><div id="copyright" style="undefined"><p><span id="editthispage">&copy;</span> 2012 Georgia Gwinnett College</p>
+<script type="text/javascript">
+$(function(){
+$("#editthispage").click(function(){
+var eurl = window.location.href.split('?')[0] + "/se";
+window.open(eurl, '_self');
+});
+});
+</script> &nbsp; <ul style="undefined"><li style="undefined"><a href="http://www.ggc.edu/employment/" >Employment</a></li><li style="undefined">/</li><li style="undefined"><a title="Faculty and Staff Directory" href="http://www.ggc.edu/about-ggc/directory" >Directory</a></li><li style="undefined">/</li><li style="undefined"><a title="Schools and Departments" href="http://www.ggc.edu/about-ggc/departments/index.html" >Departments</a></li><li style="undefined">/</li><li style="undefined"><a title="Library" href="http://www.ggc.edu/about-ggc/departments/library/" >Library</a></li><li style="undefined">/</li><li style="undefined"><a title="GGC Privacy Policy" href="http://www.ggc.edu/privacy-policy.html" >Privacy Policy</a></li><li style="undefined">/</li><li style="undefined"><a title="Website" href="http://www.ggc.edu/about-the-website.html" >Website</a></li></ul><!-- skip navigation removed from included pages --><div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-1253888-3'}, 'google_translate_element');
+$('#google_translate_element img').attr('alt', '');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div></div><!-- skip navigation removed from included pages --><p>&nbsp;</p><script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//us1.siteimprove.com/js/siteanalyze_1254.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script> 
+ <p>&nbsp;</p><script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+   try {
+      var pageTracker = _gat._getTracker("UA-1253888-3");
+      pageTracker._trackPageview();
+   } catch(err) {}
+</script><form method="post">&nbsp;</form></div> 
+</body>
+</html>

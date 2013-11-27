@@ -27,9 +27,10 @@ public class MainActivity extends Activity {
 			{
 				Intent intent = new Intent(MainActivity.this, Schools.class);
 				MainActivity.this.startActivity(intent);
+				finish();
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"First, choose your desired school...", Toast.LENGTH_LONG);
+						"Choose your desired school...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
@@ -47,6 +48,7 @@ public class MainActivity extends Activity {
 						"Leaving Application...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
+				finish();
 				
 			}
 			
