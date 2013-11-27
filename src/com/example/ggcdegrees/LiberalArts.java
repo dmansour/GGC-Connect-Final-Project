@@ -102,7 +102,6 @@ public class LiberalArts extends Activity {
 			{
 				Intent intent = new Intent(LiberalArts.this, Schools.class);
 				LiberalArts.this.startActivity(intent);
-				finish();
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Taking You Back...", Toast.LENGTH_LONG);

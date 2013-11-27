@@ -198,7 +198,6 @@ public class Business extends Activity
 			{
 				Intent intent = new Intent(Business.this, Schools.class);
 				Business.this.startActivity(intent);
-				finish();
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Taking you back...", Toast.LENGTH_LONG);
@@ -216,11 +215,4 @@ public class Business extends Activity
 		getMenuInflater().inflate(R.menu.business, menu);
 		return true;
 	}
-	
-	@Override
-	public void onBackPressed()
-	{
-		moveTaskToBack(true);
-	}
-
 }

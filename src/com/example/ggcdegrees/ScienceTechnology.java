@@ -87,7 +87,6 @@ public class ScienceTechnology extends Activity {
 			{
 				Intent intent = new Intent(ScienceTechnology.this, Schools.class);
 				ScienceTechnology.this.startActivity(intent);
-				finish();
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Taking You Back...", Toast.LENGTH_LONG);

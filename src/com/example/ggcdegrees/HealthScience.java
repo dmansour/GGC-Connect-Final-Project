@@ -42,7 +42,6 @@ public class HealthScience extends Activity {
 			{
 				Intent intent = new Intent(HealthScience.this, Schools.class);
 				HealthScience.this.startActivity(intent);
-				finish();
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Taking You Back...", Toast.LENGTH_LONG);
