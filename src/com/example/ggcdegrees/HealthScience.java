@@ -2,6 +2,7 @@ package com.example.ggcdegrees;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.Menu;
@@ -25,6 +26,12 @@ public class HealthScience extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2013-2014/old_2013-14-prenursing-checklist.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading Nursing Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
