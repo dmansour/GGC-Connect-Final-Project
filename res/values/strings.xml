@@ -11,5 +11,12 @@
     <string name="title_activity_liberal_arts">LiberalArts</string>
     <string name="title_activity_science_technology">ScienceTechnology</string>
     <string name="title_activity_health_science">HealthScience</string>
+    <string name="title_activity_information_technology">InformationTechnology</string>
+    <string name="title_activity_criminal_justice">CriminalJustice</string>
+    <string name="title_activity_lib_arts_english">LibArtsEnglish</string>
+    <string name="title_activity_lib_arts_history">LibArtsHistory</string>
+    <string name="title_activity_political_science">PoliticalScience</string>
+    <string name="title_activity_biology">Biology</string>
+    <string name="title_activity_mathematics">Mathematics</string>
 
 </resources>
