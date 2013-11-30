@@ -3,6 +3,8 @@ GGC-Connect-Final-Project
 
 Danny Mansour, Marcus Rogers, and Christina Davis Final Project For ITEC3860
 
+
+11/30/2013
 Christina Davis Added new layouts for the different liberal arts categories, And the Science and technology categories:
 	Criminal Justice, English, History, Political science,Biology, Information Technology, and mathematics.
 
