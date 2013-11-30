@@ -70,5 +70,4 @@
          android:src="@drawable/ggclogo" />
         
      </RelativeLayout>
-
 </ScrollView>

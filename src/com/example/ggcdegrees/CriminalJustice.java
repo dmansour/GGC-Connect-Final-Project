@@ -5,15 +5,11 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Gravity;
 import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
-import android.support.v4.app.NavUtils;
-import android.annotation.TargetApi;
 import android.content.Intent;
-import android.os.Build;
 
 public class CriminalJustice extends Activity {
 
@@ -67,7 +63,7 @@ public class CriminalJustice extends Activity {
 		});
 		
 		Button crimLib = (Button) findViewById(R.id.Crim_LibArts);
-		criminology.setOnClickListener(new OnClickListener()
+		crimLib.setOnClickListener(new OnClickListener()
 		{
 
 			@Override
@@ -105,13 +101,7 @@ public class CriminalJustice extends Activity {
 			
 		});
 		
-		
-		
-		
-		
 	}
-
-
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -119,22 +109,4 @@ public class CriminalJustice extends Activity {
 		getMenuInflater().inflate(R.menu.criminal_justice, menu);
 		return true;
 	}
-
-	@Override
-	public boolean onOptionsItemSelected(MenuItem item) {
-		switch (item.getItemId()) {
-		case android.R.id.home:
-			// This ID represents the Home or Up button. In the case of this
-			// activity, the Up button is shown. Use NavUtils to allow users
-			// to navigate up one level in the application structure. For
-			// more details, see the Navigation pattern on Android Design:
-			//
-			// http://developer.android.com/design/patterns/navigation.html#up-vs-back
-			//
-			NavUtils.navigateUpFromSameTask(this);
-			return true;
-		}
-		return super.onOptionsItemSelected(item);
-	}
-
 }

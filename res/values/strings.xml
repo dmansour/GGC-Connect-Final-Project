@@ -18,5 +18,12 @@
     <string name="title_activity_political_science">PoliticalScience</string>
     <string name="title_activity_biology">Biology</string>
     <string name="title_activity_mathematics">Mathematics</string>
+    <string name="title_activity_biology2">Biology2</string>
+    <string name="title_activity_cj">CJ</string>
+    <string name="title_activity_it">IT</string>
+    <string name="title_activity_liberal_arts__english">LiberalArts_English</string>
+    <string name="title_activity_liberal_arts__history">LiberalArts_History</string>
+    <string name="title_activity_math">Math</string>
+    <string name="title_activity_political_science2">PoliticalScience2</string>
 
 </resources>

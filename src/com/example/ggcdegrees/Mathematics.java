@@ -80,18 +80,7 @@ public class Mathematics extends Activity {
 		}
 		
 	});		
-	
 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		Button go_back_button = (Button) findViewById(R.id.math_back);
 		go_back_button.setOnClickListener(new OnClickListener()
 		{
@@ -118,5 +107,4 @@ public class Mathematics extends Activity {
 		getMenuInflater().inflate(R.menu.mathematics, menu);
 		return true;
 	}
-
 }

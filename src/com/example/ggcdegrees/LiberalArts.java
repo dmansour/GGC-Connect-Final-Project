@@ -44,7 +44,7 @@ public class LiberalArts extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
-				Intent intent = new Intent(LiberalArts.this, LibArtsEnglish.class);
+				Intent intent = new Intent(LiberalArts.this, LiberalArts_English.class);
 				LiberalArts.this.startActivity(intent);
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
@@ -62,7 +62,7 @@ public class LiberalArts extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
-				Intent intent = new Intent(LiberalArts.this, LibArtsHistory.class);
+				Intent intent = new Intent(LiberalArts.this, LiberalArts_History.class);
 				LiberalArts.this.startActivity(intent);
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
@@ -80,7 +80,7 @@ public class LiberalArts extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
-				Intent intent = new Intent(LiberalArts.this, PoliticalScience.class);
+				Intent intent = new Intent(LiberalArts.this, LiberalArts_PoliticalScience.class);
 				LiberalArts.this.startActivity(intent);
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 

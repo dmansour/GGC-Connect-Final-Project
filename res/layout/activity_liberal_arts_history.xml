@@ -13,7 +13,7 @@
     android:paddingTop="@dimen/activity_vertical_margin" >
     
     <Button
-        android:id="@+id/americanGovt"
+        android:id="@+id/americanHistory"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
@@ -21,50 +21,50 @@
         android:gravity="center"
         android:padding="15dp"
         android:paddingTop="15dp"
-        android:text="American Government" />
+        android:text="American History" />
      
      <Button
-         android:id="@+id/comparePolotics"
+         android:id="@+id/interDiscHistory"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/americanGovt"
+         android:layout_below="@+id/americanHistory"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
-         android:text="Comparative Polotics" />
+         android:text="Interdisciplinary Studies" />
      
      <Button
-         android:id="@+id/interRelations"
+         android:id="@+id/westernCiv"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/comparePolotics"
+         android:layout_below="@+id/interDiscHistory"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
-         android:text="International Relations" />
+         android:text="Western Civilization" />
      
      <Button
-         android:id="@+id/LegalStudies"
+         android:id="@+id/worldHistory"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/interRelations"
+         android:layout_below="@+id/westernCiv"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
-         android:text="Legal Studies" />
+         android:text="World History" />
      
      <Button
-         android:id="@+id/teacherCertPol"
+         android:id="@+id/teacherCertHistory"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/LegalStudies"
+         android:layout_below="@+id/worldHistory"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
@@ -72,11 +72,11 @@
          android:text="Teacher Certification" />
      
      <Button
-         android:id="@+id/polotics_back"
+         android:id="@+id/History_back"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/teacherCertPol"
+         android:layout_below="@+id/teacherCertHistory"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
@@ -87,12 +87,11 @@
         android:id="@+id/imageview_id"
         android:layout_width="300dp"
         android:layout_height="184dp"
-        android:layout_below="@+id/polotics_back"
+        android:layout_below="@+id/History_back"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
         android:layout_weight="0.53"
         android:src="@drawable/ggclogo" />
         
      </RelativeLayout>
-
 </ScrollView>

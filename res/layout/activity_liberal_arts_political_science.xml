@@ -13,7 +13,7 @@
     android:paddingTop="@dimen/activity_vertical_margin" >
     
     <Button
-        android:id="@+id/interStudies"
+        android:id="@+id/american_government"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
@@ -21,50 +21,62 @@
         android:gravity="center"
         android:padding="15dp"
         android:paddingTop="15dp"
-        android:text="Interdisciplinary Studies" />
+        android:text="American Government" />
      
      <Button
-         android:id="@+id/langLit"
+         android:id="@+id/comparative_politics"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/interStudies"
+         android:layout_below="@+id/american_government"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
-         android:text="Language and Literature" />
+         android:text="Comparative Politics" />
      
      <Button
-         android:id="@+id/writingRhetoric"
+         android:id="@+id/international_relations"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/langLit"
+         android:layout_below="@+id/comparative_politics"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
-         android:text="Writing and Rhetoric" />
+         android:text="International Relations" />
      
      <Button
-         android:id="@+id/teacherCert"
+         android:id="@+id/LegalStudies"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/writingRhetoric"
+         android:layout_below="@+id/international_relations"
+         android:background="#FF6E6E6E"
+         android:gravity="center"
+         android:padding="15dp"
+         android:paddingTop="15dp"
+         android:text="Legal Studies" />
+     
+     <Button
+         android:id="@+id/teacherCertPol"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="15dp"
+         android:layout_below="@+id/LegalStudies"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
          android:text="Teacher Certification" />
      
-      <Button
-         android:id="@+id/english_back"
+     <Button
+         android:id="@+id/politics_back"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/teacherCert"
+         android:layout_below="@+id/teacherCertPol"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
@@ -72,15 +84,14 @@
          android:text="Back" />
      
      <ImageView
-         android:id="@+id/imageview_id"
-         android:layout_width="300dp"
-         android:layout_height="184dp"
-         android:layout_below="@+id/english_back"
-         android:layout_centerHorizontal="true"
-         android:layout_marginTop="30dp"
-         android:layout_weight="0.53"
-         android:src="@drawable/ggclogo" />
+        android:id="@+id/imageview_id"
+        android:layout_width="300dp"
+        android:layout_height="184dp"
+        android:layout_below="@+id/politics_back"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_weight="0.53"
+        android:src="@drawable/ggclogo" />
         
      </RelativeLayout>
-
 </ScrollView>

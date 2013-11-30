@@ -13,17 +13,54 @@
         android:paddingTop="@dimen/activity_vertical_margin" >
     	
         <Button
-        	android:id="@+id/IT_business"
+        	android:id="@+id/enterprise_systems"
         	android:layout_width="match_parent"
         	android:layout_height="wrap_content"
         	android:background="#FF6E6E6E"
         	android:gravity="center"
         	android:padding="15dp"
-        	android:text="IT – Business" />
-
-    	<Button
-        	android:id="@+id/IT_SoftDev"
+        	android:text="Enterprise Systems" />
+        
+        <Button
+        	android:id="@+id/software_development"
         	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_below="@+id/enterprise_systems"
+        	android:layout_marginTop="20dp"
+        	android:background="#FF6E6E6E"
+        	android:gravity="center"
+        	android:padding="15dp"
+        	android:paddingTop="15dp"
+        	android:text="Software Development" />
+        
+        <Button
+        	android:id="@+id/systems_security"
+       	 	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_below="@+id/software_development"
+        	android:layout_marginTop="20dp"
+        	android:background="#FF6E6E6E"
+        	android:gravity="center"
+        	android:padding="15dp"
+        	android:paddingTop="15dp"
+        	android:text="Systems and Security" />
+        
+        <Button
+        	android:id="@+id/IT_business"
+       	 	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_below="@+id/systems_security"
+        	android:layout_marginTop="20dp"
+        	android:background="#FF6E6E6E"
+        	android:gravity="center"
+        	android:padding="15dp"
+        	android:paddingTop="15dp"
+        	android:text="IT - Business" />
+
+    
+    	<Button
+        	android:id="@+id/digital_media"
+       	 	android:layout_width="match_parent"
         	android:layout_height="wrap_content"
         	android:layout_below="@+id/IT_business"
         	android:layout_marginTop="20dp"
@@ -31,31 +68,19 @@
         	android:gravity="center"
         	android:padding="15dp"
         	android:paddingTop="15dp"
-        	android:text="IT – Software Development" />
-    
-    	<Button
-        	android:id="@+id/IT_SystemsSecurity"
-       	 	android:layout_width="match_parent"
-        	android:layout_height="wrap_content"
-        	android:layout_below="@+id/IT_SoftDev"
-        	android:layout_marginTop="20dp"
-        	android:background="#FF6E6E6E"
-        	android:gravity="center"
-        	android:padding="15dp"
-        	android:paddingTop="15dp"
-        	android:text="IT - Systems and Security" />
+        	android:text="Digital Media" />
     	
     	 <Button
-        android:id="@+id/IT_back"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/IT_SystemsSecurity"
-        android:layout_marginTop="15dp"
-        android:background="#FF6E6E6E"
-        android:gravity="center"
-        android:padding="15dp"
-        android:paddingTop="15dp"
-        android:text="Back" />
+	        android:id="@+id/IT_back"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/digital_media"
+	        android:layout_marginTop="15dp"
+	        android:background="#FF6E6E6E"
+	        android:gravity="center"
+	        android:padding="15dp"
+	        android:paddingTop="15dp"
+	        android:text="Back" />
     
     	<ImageView
     	    android:id="@+id/imageview_id"
@@ -68,5 +93,4 @@
     	    android:src="@drawable/ggclogo" />
     
     </RelativeLayout>
-    
 </ScrollView>

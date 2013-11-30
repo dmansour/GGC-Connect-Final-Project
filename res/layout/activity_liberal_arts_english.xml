@@ -13,7 +13,7 @@
     android:paddingTop="@dimen/activity_vertical_margin" >
     
     <Button
-        android:id="@+id/americanHistory"
+        android:id="@+id/interStudies"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
@@ -21,62 +21,50 @@
         android:gravity="center"
         android:padding="15dp"
         android:paddingTop="15dp"
-        android:text="American History" />
+        android:text="Interdisciplinary Studies" />
      
      <Button
-         android:id="@+id/interDiscHistory"
+         android:id="@+id/langLit"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/americanHistory"
+         android:layout_below="@+id/interStudies"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
-         android:text="Interdisciplinary Studies" />
+         android:text="Language and Literature" />
      
      <Button
-         android:id="@+id/westernCiv"
+         android:id="@+id/writingRhetoric"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/interDiscHistory"
+         android:layout_below="@+id/langLit"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
-         android:text="Western Civilization" />
+         android:text="Writing and Rhetoric" />
      
      <Button
-         android:id="@+id/worldHistory"
+         android:id="@+id/teacherCert"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/westernCiv"
-         android:background="#FF6E6E6E"
-         android:gravity="center"
-         android:padding="15dp"
-         android:paddingTop="15dp"
-         android:text="World History" />
-     
-     <Button
-         android:id="@+id/teacherCertHistory"
-         android:layout_width="match_parent"
-         android:layout_height="wrap_content"
-         android:layout_marginTop="15dp"
-         android:layout_below="@+id/worldHistory"
+         android:layout_below="@+id/writingRhetoric"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
          android:paddingTop="15dp"
          android:text="Teacher Certification" />
      
-     <Button
-         android:id="@+id/History_back"
+      <Button
+         android:id="@+id/english_back"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:layout_marginTop="15dp"
-         android:layout_below="@+id/teacherCertHistory"
+         android:layout_below="@+id/teacherCert"
          android:background="#FF6E6E6E"
          android:gravity="center"
          android:padding="15dp"
@@ -84,15 +72,14 @@
          android:text="Back" />
      
      <ImageView
-        android:id="@+id/imageview_id"
-        android:layout_width="300dp"
-        android:layout_height="184dp"
-        android:layout_below="@+id/History_back"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp"
-        android:layout_weight="0.53"
-        android:src="@drawable/ggclogo" />
+         android:id="@+id/imageview_id"
+         android:layout_width="300dp"
+         android:layout_height="184dp"
+         android:layout_below="@+id/english_back"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="30dp"
+         android:layout_weight="0.53"
+         android:src="@drawable/ggclogo" />
         
      </RelativeLayout>
-
 </ScrollView>

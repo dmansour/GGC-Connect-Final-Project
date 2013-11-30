@@ -81,7 +81,7 @@
             android:label="@string/title_activity_lib_arts_history" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.PoliticalScience"
+            android:name="com.example.ggcdegrees.LiberalArts_PoliticalScience"
             android:label="@string/title_activity_political_science" >
         </activity>
         <activity
@@ -91,6 +91,26 @@
         <activity
             android:name="com.example.ggcdegrees.Mathematics"
             android:label="@string/title_activity_mathematics" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.CJ"
+            android:label="@string/title_activity_cj" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.IT"
+            android:label="@string/title_activity_it" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.LiberalArts_English"
+            android:label="@string/title_activity_liberal_arts__english" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.LiberalArts_History"
+            android:label="@string/title_activity_liberal_arts__history" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.Mathematics"
+            android:label="@string/title_activity_math" >
         </activity>
     </application>
 
