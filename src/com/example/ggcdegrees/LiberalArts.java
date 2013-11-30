@@ -2,6 +2,7 @@ package com.example.ggcdegrees;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.Menu;
@@ -25,8 +26,11 @@ public class LiberalArts extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
+				Intent intent = new Intent(LiberalArts.this, CriminalJustice.class);
+				LiberalArts.this.startActivity(intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"Loading Criminal Justice Program...", Toast.LENGTH_LONG);
+						"Loading Criminal Justice Programs...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
@@ -40,8 +44,11 @@ public class LiberalArts extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
+				Intent intent = new Intent(LiberalArts.this, LibArtsEnglish.class);
+				LiberalArts.this.startActivity(intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"Loading English Program...", Toast.LENGTH_LONG);
+						"Loading English Programs...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
@@ -55,8 +62,11 @@ public class LiberalArts extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
+				Intent intent = new Intent(LiberalArts.this, LibArtsHistory.class);
+				LiberalArts.this.startActivity(intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"Loading History Program...", Toast.LENGTH_LONG);
+						"Loading History Programs...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
@@ -70,8 +80,11 @@ public class LiberalArts extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
+				Intent intent = new Intent(LiberalArts.this, PoliticalScience.class);
+				LiberalArts.this.startActivity(intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"Loading Political Science Program...", Toast.LENGTH_LONG);
+						"Loading Political Science Programs...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
@@ -85,6 +98,12 @@ public class LiberalArts extends Activity {
 			@Override
 			public void onClick(View v) 
 			{
+				String pdfurl = "http://www.ggc.edu/about-ggc/departments/registrar/docs/program-plans/2011-2012/2011-12-psych.pdf";
+				String googleDocsUrl = "http://docs.google.com/viewer?url=" + pdfurl;
+				Intent pdf_intent = new Intent(Intent.ACTION_VIEW);
+				pdf_intent.setDataAndType(Uri.parse(googleDocsUrl), "text/html");
+				startActivity(pdf_intent);
+				
 				Toast toast = Toast.makeText(getApplicationContext(), 
 						"Loading Psychology Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);

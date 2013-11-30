@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ggcdegrees"
-    android:versionCode="1"
-    android:versionName="1.0" 
+    android:clearTaskOnLaunch="true"
     android:noHistory="true"
-    android:clearTaskOnLaunch="true" >
+    android:versionCode="1"
+    android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="8"
@@ -51,6 +51,46 @@
         <activity
             android:name="com.example.ggcdegrees.HealthScience"
             android:label="@string/title_activity_health_science" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.InformationTechnology"
+            android:label="@string/title_activity_information_technology"
+            android:parentActivityName="com.example.ggcdegrees.Schools" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.ggcdegrees.Schools" />
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.CriminalJustice"
+            android:label="@string/title_activity_criminal_justice"
+            android:parentActivityName="com.example.ggcdegrees.LiberalArts" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.ggcdegrees.LiberalArts" />
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.LibArtsEnglish"
+            android:label="@string/title_activity_lib_arts_english"
+            android:parentActivityName="com.example.ggcdegrees.LiberalArts" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.ggcdegrees.LiberalArts" />
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.LibArtsHistory"
+            android:label="@string/title_activity_lib_arts_history" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.PoliticalScience"
+            android:label="@string/title_activity_political_science" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.Biology"
+            android:label="@string/title_activity_biology" >
+        </activity>
+        <activity
+            android:name="com.example.ggcdegrees.Mathematics"
+            android:label="@string/title_activity_mathematics" >
         </activity>
     </application>
 
