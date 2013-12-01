@@ -19,6 +19,8 @@ public class CriminalJustice extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_criminal_justice);
 		
+		// Button that will open the program plan PDF for the Criminal Justice track
+		
 		Button criminalJustice = (Button) findViewById(R.id.criminal_justice);
 		criminalJustice.setOnClickListener(new OnClickListener()
 		{
@@ -40,6 +42,7 @@ public class CriminalJustice extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Criminology track
 		
 		Button criminology = (Button) findViewById(R.id.criminology);
 		criminology.setOnClickListener(new OnClickListener()
@@ -62,6 +65,8 @@ public class CriminalJustice extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Criminology - Liberal Arts track
+		
 		Button crimLib = (Button) findViewById(R.id.Crim_LibArts);
 		crimLib.setOnClickListener(new OnClickListener()
 		{
@@ -82,6 +87,8 @@ public class CriminalJustice extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.crimJustice_back);
 		go_back_button.setOnClickListener(new OnClickListener()

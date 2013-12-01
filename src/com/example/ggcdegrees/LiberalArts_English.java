@@ -18,7 +18,8 @@ public class LiberalArts_English extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_liberal_arts_english);
 		
-
+		// Button that will open the program plan PDF for the Interdisciplinary Studies track
+		
 		Button InterStudies = (Button) findViewById(R.id.interStudies);
 		InterStudies.setOnClickListener(new OnClickListener()
 		{
@@ -39,6 +40,8 @@ public class LiberalArts_English extends Activity {
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the Language and Literature track
 		
 		Button LangLit = (Button) findViewById(R.id.langLit);
 		LangLit.setOnClickListener(new OnClickListener()
@@ -61,6 +64,7 @@ public class LiberalArts_English extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Writing and Rhetoric track
 		
 		Button WritingRhetoric = (Button) findViewById(R.id.writingRhetoric);
 		WritingRhetoric.setOnClickListener(new OnClickListener()
@@ -83,6 +87,7 @@ public class LiberalArts_English extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the English-Teacher Certification track
 		
 		Button TeacherCert = (Button) findViewById(R.id.teacherCert);
 		TeacherCert.setOnClickListener(new OnClickListener()
@@ -105,6 +110,7 @@ public class LiberalArts_English extends Activity {
 			
 		});
 		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.english_back);
 		go_back_button.setOnClickListener(new OnClickListener()

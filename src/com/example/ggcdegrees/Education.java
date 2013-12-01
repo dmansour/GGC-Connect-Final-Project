@@ -19,6 +19,8 @@ public class Education extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_education);
 		
+		// Button that will open the program plan PDF for the Early Childhood Education track
+		
 		Button early_childhood = (Button) findViewById(R.id.early_childhood_major);
 		early_childhood.setOnClickListener(new OnClickListener()
 		{
@@ -40,6 +42,8 @@ public class Education extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Special Education track
+		
 		Button special_education = (Button) findViewById(R.id.special_education_major);
 		special_education.setOnClickListener(new OnClickListener()
 		{
@@ -60,6 +64,8 @@ public class Education extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.education_back);
 		go_back_button.setOnClickListener(new OnClickListener()

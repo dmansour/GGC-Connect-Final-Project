@@ -19,6 +19,8 @@ public class ScienceTechnology extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_science_technology);
 		
+		// Button that will take the user to Biology degree page
+		
 		Button biology = (Button) findViewById(R.id.biology_major);
 		biology.setOnClickListener(new OnClickListener()
 		{
@@ -36,6 +38,8 @@ public class ScienceTechnology extends Activity {
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the Exercise Science track
 		
 		Button exercise_science = (Button) findViewById(R.id.exercise_science_major);
 		exercise_science.setOnClickListener(new OnClickListener()
@@ -58,6 +62,8 @@ public class ScienceTechnology extends Activity {
 			
 		});
 		
+		// Button that will take the user to Information Technology degree page
+		
 		Button information_technology = (Button) findViewById(R.id.information_technology_major);
 		information_technology.setOnClickListener(new OnClickListener()
 		{
@@ -76,6 +82,8 @@ public class ScienceTechnology extends Activity {
 			
 		});
 		
+		// Button that will take the user to Mathematics degree page
+		
 		Button mathematics = (Button) findViewById(R.id.mathematics_major);
 		mathematics.setOnClickListener(new OnClickListener()
 		{
@@ -93,6 +101,8 @@ public class ScienceTechnology extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.science_technology_back);
 		go_back_button.setOnClickListener(new OnClickListener()

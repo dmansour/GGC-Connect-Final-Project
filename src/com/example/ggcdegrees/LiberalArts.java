@@ -19,6 +19,8 @@ public class LiberalArts extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_liberal_arts);
 		
+		// Button that will take the user to Criminal Justice degree page
+		
 		Button criminal_justice = (Button) findViewById(R.id.criminal_justice_major);
 		criminal_justice.setOnClickListener(new OnClickListener()
 		{
@@ -36,6 +38,8 @@ public class LiberalArts extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user to English degree page
 		
 		Button english = (Button) findViewById(R.id.english_major);
 		english.setOnClickListener(new OnClickListener()
@@ -55,6 +59,8 @@ public class LiberalArts extends Activity {
 			
 		});
 		
+		// Button that will take the user to History degree page
+		
 		Button history = (Button) findViewById(R.id.history_major);
 		history.setOnClickListener(new OnClickListener()
 		{
@@ -73,6 +79,8 @@ public class LiberalArts extends Activity {
 			
 		});
 		
+		// Button that will take the user to Political Science degree page
+		
 		Button political_science = (Button) findViewById(R.id.political_science_major);
 		political_science.setOnClickListener(new OnClickListener()
 		{
@@ -90,6 +98,8 @@ public class LiberalArts extends Activity {
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the Psychology track
 		
 		Button psychology = (Button) findViewById(R.id.psychology_major);
 		psychology.setOnClickListener(new OnClickListener()
@@ -111,6 +121,8 @@ public class LiberalArts extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.liberal_arts_back);
 		go_back_button.setOnClickListener(new OnClickListener()

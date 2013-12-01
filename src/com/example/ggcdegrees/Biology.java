@@ -17,7 +17,9 @@ public class Biology extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_biology);
-
+		
+		// Button that will open the program plan PDF for the Biochemistry track
+		
 		Button BioChem = (Button) findViewById(R.id.biochemistry);
 		BioChem.setOnClickListener(new OnClickListener()
 		{
@@ -38,7 +40,9 @@ public class Biology extends Activity {
 			}
 			
 		});
-
+		
+		// Button that will open the program plan PDF for the Cell Biology track
+		
 		Button CellBio = (Button) findViewById(R.id.cellBio);
 		CellBio.setOnClickListener(new OnClickListener()
 		{
@@ -60,6 +64,7 @@ public class Biology extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the General Biology track
 
 		Button GenBio = (Button) findViewById(R.id.generalBio);
 		GenBio.setOnClickListener(new OnClickListener()
@@ -81,6 +86,8 @@ public class Biology extends Activity {
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the Biology Teacher Certification track
 
 		Button TeacherCert = (Button) findViewById(R.id.teacherCert_bio);
 		TeacherCert.setOnClickListener(new OnClickListener()
@@ -96,13 +103,14 @@ public class Biology extends Activity {
 				startActivity(pdf_intent);
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"Loading Teacher Certification Program...", Toast.LENGTH_LONG);
+						"Loading Biology Teacher Certification Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
 			
 		});		
 		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.biology_back);
 		go_back_button.setOnClickListener(new OnClickListener()

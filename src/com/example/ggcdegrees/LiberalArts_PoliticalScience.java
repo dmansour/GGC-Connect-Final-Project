@@ -18,6 +18,8 @@ public class LiberalArts_PoliticalScience extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_liberal_arts_political_science);
 		
+		// Button that will open the program plan PDF for the American Government track
+		
 		Button AmeriGov = (Button) findViewById(R.id.american_government);
 		AmeriGov.setOnClickListener(new OnClickListener()
 		{
@@ -39,6 +41,8 @@ public class LiberalArts_PoliticalScience extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Comparative Politics track
+		
 		Button ComparePol = (Button) findViewById(R.id.comparative_politics);
 		ComparePol.setOnClickListener(new OnClickListener()
 		{
@@ -53,12 +57,14 @@ public class LiberalArts_PoliticalScience extends Activity {
 				startActivity(pdf_intent);
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"Loading Compaarative Polotics Program...", Toast.LENGTH_LONG);
+						"Loading Comparative Politics Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the International Relations track
 
 		Button InternRelations = (Button) findViewById(R.id.international_relations);
 		InternRelations.setOnClickListener(new OnClickListener()
@@ -81,6 +87,8 @@ public class LiberalArts_PoliticalScience extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Legal Studies track
+		
 		Button LegalStudies = (Button) findViewById(R.id.LegalStudies);
 		LegalStudies.setOnClickListener(new OnClickListener()
 		{
@@ -102,6 +110,8 @@ public class LiberalArts_PoliticalScience extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Political Science Teacher Certification track
+		
 		Button TeacherCert = (Button) findViewById(R.id.teacherCertPol);
 		TeacherCert.setOnClickListener(new OnClickListener()
 		{
@@ -116,13 +126,14 @@ public class LiberalArts_PoliticalScience extends Activity {
 				startActivity(pdf_intent);
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"Loading teacher Certification Program...", Toast.LENGTH_LONG);
+						"Loading Political Science Teacher Certification Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
 			
 		});
 						
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.politics_back);
 		go_back_button.setOnClickListener(new OnClickListener()

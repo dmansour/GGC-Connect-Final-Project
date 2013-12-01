@@ -19,6 +19,8 @@ public class HealthScience extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_health_science);
 		
+		// Button that will open the program plan PDF for the Nursing track
+		
 		Button nursing = (Button) findViewById(R.id.nursing_major);
 		nursing.setOnClickListener(new OnClickListener()
 		{
@@ -39,6 +41,8 @@ public class HealthScience extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.health_science_back);
 		go_back_button.setOnClickListener(new OnClickListener()

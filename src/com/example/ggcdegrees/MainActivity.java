@@ -18,8 +18,10 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		Button button = (Button) findViewById(R.id.button1_id);
-		button.setOnClickListener(new OnClickListener()
+		// Button that starts the application and lets the user choose their school
+		
+		Button start = (Button) findViewById(R.id.button1_id);
+		start.setOnClickListener(new OnClickListener()
 		{
 
 			@Override
@@ -36,8 +38,10 @@ public class MainActivity extends Activity {
 			
 		});
 		
-		Button button2 = (Button) findViewById(R.id.button2_id);
-		button2.setOnClickListener(new OnClickListener()
+		// Button that will exit the application to the main GGC-Connect application
+		
+		Button exit = (Button) findViewById(R.id.button2_id);
+		exit.setOnClickListener(new OnClickListener()
 		{
 
 			@Override

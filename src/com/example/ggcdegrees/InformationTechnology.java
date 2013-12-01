@@ -17,7 +17,8 @@ public class InformationTechnology extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_information_technology);
-
+		
+		// Button that will open the program plan PDF for the Enterprise Systems track
 		
 		Button enterpriseSystems = (Button) findViewById(R.id.enterprise_systems);
 		enterpriseSystems.setOnClickListener(new OnClickListener()
@@ -40,6 +41,8 @@ public class InformationTechnology extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Software Development track
+		
 		Button IT_SoftDev = (Button) findViewById(R.id.software_development);
 		IT_SoftDev.setOnClickListener(new OnClickListener()
 		{
@@ -60,6 +63,8 @@ public class InformationTechnology extends Activity {
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the Systems and Security track
 		
 		Button IT_SystSec = (Button) findViewById(R.id.systems_security);
 		IT_SystSec.setOnClickListener(new OnClickListener()
@@ -82,6 +87,8 @@ public class InformationTechnology extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Business - IT track
+		
 		Button IT_Business = (Button) findViewById(R.id.IT_business);
 		IT_Business.setOnClickListener(new OnClickListener()
 		{
@@ -103,6 +110,8 @@ public class InformationTechnology extends Activity {
 			
 		});		
 		
+		// Button that will open the program plan PDF for the Digital Media track
+		
 		Button IT_DigitalMedia = (Button) findViewById(R.id.digital_media);
 		IT_DigitalMedia.setOnClickListener(new OnClickListener()
 		{
@@ -122,7 +131,9 @@ public class InformationTechnology extends Activity {
 				toast.show();
 			}
 			
-		});		
+		});
+		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.IT_back);
 		go_back_button.setOnClickListener(new OnClickListener()

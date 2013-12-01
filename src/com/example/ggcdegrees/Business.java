@@ -21,6 +21,8 @@ public class Business extends Activity
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_business);
 		
+		// Button that will open the program plan PDF for the Accounting track
+		
 		Button accounting = (Button) findViewById(R.id.accounting_major);
 		accounting.setOnClickListener(new OnClickListener()
 		{
@@ -41,6 +43,8 @@ public class Business extends Activity
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the Economics track
 		
 		Button economics = (Button) findViewById(R.id.economics_major);
 		economics.setOnClickListener(new OnClickListener()
@@ -63,6 +67,8 @@ public class Business extends Activity
 			
 		});
 		
+		// Button that will open the program plan PDF for the Finance track
+		
 		Button finance = (Button) findViewById(R.id.finance_major);
 		finance.setOnClickListener(new OnClickListener()
 		{
@@ -83,6 +89,8 @@ public class Business extends Activity
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the General Business track
 		
 		Button general_business = (Button) findViewById(R.id.general_business_major);
 		general_business.setOnClickListener(new OnClickListener()
@@ -105,6 +113,8 @@ public class Business extends Activity
 			
 		});
 		
+		// Button that will open the program plan PDF for the International Business track
+		
 		Button international_business = (Button) findViewById(R.id.international_business_major);
 		international_business.setOnClickListener(new OnClickListener()
 		{
@@ -125,6 +135,8 @@ public class Business extends Activity
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the Leadership track
 		
 		Button leadership = (Button) findViewById(R.id.leadership_major);
 		leadership.setOnClickListener(new OnClickListener()
@@ -147,6 +159,8 @@ public class Business extends Activity
 			
 		});
 		
+		// Button that will open the program plan PDF for the MIS track
+		
 		Button mis = (Button) findViewById(R.id.mis_major);
 		mis.setOnClickListener(new OnClickListener()
 		{
@@ -168,6 +182,8 @@ public class Business extends Activity
 			
 		});
 		
+		// Button that will open the program plan PDF for the Marketing track
+		
 		Button marketing = (Button) findViewById(R.id.marketing_major);
 		marketing.setOnClickListener(new OnClickListener()
 		{
@@ -188,6 +204,8 @@ public class Business extends Activity
 			}
 			
 		});
+		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.business_back);
 		go_back_button.setOnClickListener(new OnClickListener()

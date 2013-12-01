@@ -18,6 +18,8 @@ public class LiberalArts_History extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_liberal_arts_history);
 		
+		// Button that will open the program plan PDF for the American History track
+		
 		Button AmerHistory = (Button) findViewById(R.id.americanHistory);
 		AmerHistory.setOnClickListener(new OnClickListener()
 		{
@@ -38,6 +40,8 @@ public class LiberalArts_History extends Activity {
 			}
 			
 		});
+		
+		// Button that will open the program plan PDF for the Interdisciplinary Studies track
 		
 		Button InterStudies = (Button) findViewById(R.id.interDiscHistory);
 		InterStudies.setOnClickListener(new OnClickListener()
@@ -60,6 +64,7 @@ public class LiberalArts_History extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the Western Civilization track
 		
 		Button WestCiv = (Button) findViewById(R.id.westernCiv);
 		WestCiv.setOnClickListener(new OnClickListener()
@@ -82,6 +87,7 @@ public class LiberalArts_History extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the World History track
 		
 		Button WorldHistory = (Button) findViewById(R.id.worldHistory);
 		WorldHistory.setOnClickListener(new OnClickListener()
@@ -104,6 +110,7 @@ public class LiberalArts_History extends Activity {
 			
 		});
 		
+		// Button that will open the program plan PDF for the History Teacher Certification track
 		
 		Button TeacherCert = (Button) findViewById(R.id.teacherCertHistory);
 		TeacherCert.setOnClickListener(new OnClickListener()
@@ -119,14 +126,14 @@ public class LiberalArts_History extends Activity {
 				startActivity(pdf_intent);
 				
 				Toast toast = Toast.makeText(getApplicationContext(), 
-						"Loading Teacher Certification Program...", Toast.LENGTH_LONG);
+						"Loading History Teacher Certification Program...", Toast.LENGTH_LONG);
 				toast.setGravity(Gravity.CENTER_HORIZONTAL, 10, 20);
 				toast.show();
 			}
 			
 		});
 		
-		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.History_back);
 		go_back_button.setOnClickListener(new OnClickListener()

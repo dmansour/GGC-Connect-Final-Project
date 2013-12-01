@@ -17,6 +17,8 @@ public class Schools extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_schools);
 		
+		// Button that will take the user to Business degree page
+		
 		Button business_button = (Button) findViewById(R.id.school_business);
 		business_button.setOnClickListener(new OnClickListener()
 		{
@@ -34,6 +36,8 @@ public class Schools extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user to Education degree page
 		
 		Button education_button = (Button) findViewById(R.id.school_education);
 		education_button.setOnClickListener(new OnClickListener()
@@ -53,6 +57,8 @@ public class Schools extends Activity {
 			
 		});
 		
+		// Button that will take the user to Health Science degree page
+		
 		Button health_science_button = (Button) findViewById(R.id.school_health);
 		health_science_button.setOnClickListener(new OnClickListener()
 		{
@@ -70,6 +76,8 @@ public class Schools extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user to Liberal Arts degree page
 		
 		Button liberal_arts_button = (Button) findViewById(R.id.school_liberalarts);
 		liberal_arts_button.setOnClickListener(new OnClickListener()
@@ -89,6 +97,8 @@ public class Schools extends Activity {
 			
 		});
 		
+		// Button that will take the user to Science and Technology degree page
+		
 		Button science_technology_button = (Button) findViewById(R.id.school_sciencetech);
 		science_technology_button.setOnClickListener(new OnClickListener()
 		{
@@ -106,6 +116,8 @@ public class Schools extends Activity {
 			}
 			
 		});
+		
+		// Button that will take the user back one page
 		
 		Button go_back_button = (Button) findViewById(R.id.schools_back);
 		go_back_button.setOnClickListener(new OnClickListener()
