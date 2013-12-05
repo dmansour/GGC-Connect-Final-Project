@@ -28,7 +28,7 @@ public class DegreesMainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) 
 	{
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
+		setContentView(R.layout.activity_degrees_main);
 		
 		// Button that starts the application and lets the user choose their school
 		
