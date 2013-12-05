@@ -16,7 +16,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.ggcdegrees.MainActivity"
+            android:name="edu.ggc.it.degrees.DegreesMainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,91 +25,91 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.Schools"
+            android:name="edu.ggc.it.degrees.Schools"
             android:label="@string/title_activity_schools" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.Business"
+            android:name="edu.ggc.it.degrees.Business"
             android:label="@string/title_activity_business" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.Schools2Activity"
+            android:name="edu.ggc.it.degrees.Schools2Activity"
             android:label="@string/title_activity_schools2" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.Education"
+            android:name="edu.ggc.it.degrees.Education"
             android:label="@string/title_activity_education" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.LiberalArts"
+            android:name="edu.ggc.it.degrees.LiberalArts"
             android:label="@string/title_activity_liberal_arts" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.ScienceTechnology"
+            android:name="edu.ggc.it.degrees.ScienceTechnology"
             android:label="@string/title_activity_science_technology" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.HealthScience"
+            android:name="edu.ggc.it.degrees.HealthScience"
             android:label="@string/title_activity_health_science" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.InformationTechnology"
+            android:name="edu.ggc.it.degrees.InformationTechnology"
             android:label="@string/title_activity_information_technology"
-            android:parentActivityName="com.example.ggcdegrees.Schools" >
+            android:parentActivityName="edu.ggc.it.degrees.Schools" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.ggcdegrees.Schools" />
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.CriminalJustice"
+            android:name="edu.ggc.it.degrees.CriminalJustice"
             android:label="@string/title_activity_criminal_justice"
-            android:parentActivityName="com.example.ggcdegrees.LiberalArts" >
+            android:parentActivityName="edu.ggc.it.degrees.LiberalArts" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.ggcdegrees.LiberalArts" />
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.LibArtsEnglish"
+            android:name="edu.ggc.it.degrees.LibArtsEnglish"
             android:label="@string/title_activity_lib_arts_english"
-            android:parentActivityName="com.example.ggcdegrees.LiberalArts" >
+            android:parentActivityName="edu.ggc.it.degrees.LiberalArts" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.ggcdegrees.LiberalArts" />
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.LibArtsHistory"
+            android:name="edu.ggc.it.degrees.LibArtsHistory"
             android:label="@string/title_activity_lib_arts_history" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.LiberalArts_PoliticalScience"
+            android:name="edu.ggc.it.degrees.LiberalArtsPoliticalScience"
             android:label="@string/title_activity_political_science" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.Biology"
+            android:name="edu.ggc.it.degrees.Biology"
             android:label="@string/title_activity_biology" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.Mathematics"
+            android:name="edu.ggc.it.degrees.Mathematics"
             android:label="@string/title_activity_mathematics" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.CJ"
+            android:name="edu.ggc.it.degrees.CJ"
             android:label="@string/title_activity_cj" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.IT"
+            android:name="edu.ggc.it.degrees.IT"
             android:label="@string/title_activity_it" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.LiberalArts_English"
+            android:name="edu.ggc.it.degrees.LiberalArtsEnglish"
             android:label="@string/title_activity_liberal_arts__english" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.LiberalArts_History"
+            android:name="edu.ggc.it.degrees.LiberalArtsHistory"
             android:label="@string/title_activity_liberal_arts__history" >
         </activity>
         <activity
-            android:name="com.example.ggcdegrees.Mathematics"
+            android:name="edu.ggc.it.degrees.Mathematics"
             android:label="@string/title_activity_math" >
         </activity>
     </application>

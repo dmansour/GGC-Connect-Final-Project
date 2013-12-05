@@ -7,10 +7,10 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".MainActivity" >
+    tools:context=".DegreesMainActivity" >
 
     <TextView
-        android:id="@+id/textview1_id"
+        android:id="@+id/ggc_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
@@ -19,32 +19,20 @@
         android:textSize="23sp" />
 
     <ImageView
-        android:id="@+id/imageview_id"
+        android:id="@+id/ggc_logo"
         android:layout_width="300dp"
         android:layout_height="184dp"
-        android:layout_below="@+id/button2_id"
+        android:layout_below="@+id/start_button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
         android:layout_weight="0.53"
         android:src="@drawable/ggclogo" />
-
+    
     <Button
-        android:id="@+id/button2_id"
+        android:id="@+id/start_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/button1_id"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="21dp"
-        android:background="#FF6E6E6E"
-        android:padding="15dp"
-        android:paddingTop="20dp"
-        android:text="Return To Main" />
-
-    <Button
-        android:id="@+id/button1_id"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textview1_id"
+        android:layout_below="@+id/ggc_text"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="36dp"
         android:background="#FF6E6E6E"

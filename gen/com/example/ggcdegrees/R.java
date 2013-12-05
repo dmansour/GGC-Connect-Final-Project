@@ -39,8 +39,6 @@ public final class R {
         public static final int biology_back=0x7f080004;
         public static final int biology_major=0x7f080042;
         public static final int business_back=0x7f08000e;
-        public static final int button1_id=0x7f080037;
-        public static final int button2_id=0x7f080036;
         public static final int cellBio=0x7f080001;
         public static final int comparative_politics=0x7f080030;
         public static final int crimJustice_back=0x7f080012;
@@ -58,6 +56,8 @@ public final class R {
         public static final int finance_major=0x7f080008;
         public static final int generalBio=0x7f080002;
         public static final int general_business_major=0x7f080009;
+        public static final int ggc_logo=0x7f080036;
+        public static final int ggc_text=0x7f080035;
         public static final int health_science_back=0x7f080017;
         public static final int history_major=0x7f080020;
         public static final int imageview_id=0x7f080005;
@@ -87,13 +87,13 @@ public final class R {
         public static final int science_technology_back=0x7f080046;
         public static final int software_development=0x7f080019;
         public static final int special_education_major=0x7f080014;
+        public static final int start_button=0x7f080037;
         public static final int systems_security=0x7f08001a;
         public static final int teacherCert=0x7f080027;
         public static final int teacherCertHistory=0x7f08002d;
         public static final int teacherCertMath=0x7f08003a;
         public static final int teacherCertPol=0x7f080033;
         public static final int teacherCert_bio=0x7f080003;
-        public static final int textview1_id=0x7f080035;
         public static final int westernCiv=0x7f08002b;
         public static final int worldHistory=0x7f08002c;
         public static final int writingRhetoric=0x7f080026;
